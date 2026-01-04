@@ -1,0 +1,86 @@
+{
+  "licenses": [
+    {
+      "licenseKey": "ABC123DEF456GHI789JKL012MNO345PQ",
+      "registerDate": "2025-12-28",
+      "expiryDate": "2026-01-05",
+      "registeredName": "Kumaran K",
+      "activeFlag": true,
+      "androidId": "ad784c04aebb5b8b",
+      "other1": "Trichy - 639112",
+      "other2": "9944039038",
+      "other3": "value3",
+      "other4": "value4",
+      "other5": "value5"
+    },
+        {
+      "licenseKey": "K9F3K7Q2P1X8D4M6R0T5B2V9C7H1W4GG",
+      "registerDate": "2025-10-25",
+      "expiryDate": "2025-11-20",
+      "registeredName": "Gautham K",
+      "activeFlag": true,
+      "androidId": "b6c32b185795d27e",
+      "other1": "value1",
+      "other2": "value2",
+      "other3": "value3",
+      "other4": "value4",
+      "other5": "value5"
+    },
+        {
+      "licenseKey": "Z4M8R1Q9L6H2T7C5W3B0E9Y4P6D1X8KG",
+      "registerDate": "2025-10-25",
+      "expiryDate": "2025-12-31",
+      "registeredName": "Gopi",
+      "activeFlag": true,
+      "androidId": "d903f47ec613ee3a",
+      "other1": "value1",
+      "other2": "value2",
+      "other3": "value3",
+      "other4": "value4",
+      "other5": "value5"
+    }
+
+,
+        {
+      "licenseKey": "KKM8R1Q9L6H2T7C5W3B0E9Y4P6D1X8KG",
+      "registerDate": "2025-10-25",
+      "expiryDate": "2026-01-04",
+      "registeredName": "Sivakumar",
+      "activeFlag": true,
+      "androidId": "34c5f43fa8dc9b60",
+      "other1": "value1",
+      "other2": "value2",
+      "other3": "value3",
+      "other4": "value4",
+      "other5": "value5"
+    }
+    ,
+        {
+      "licenseKey": "KGM8R1Q9L6H2T7C5W3B0E9Y4P6D1X9KK",
+      "registerDate": "2025-12-28",
+      "expiryDate": "2026-01-31",
+      "registeredName": "Jai",
+      "activeFlag": true,
+      "androidId": "c585ce7dfd6e895c",
+      "other1": "value1",
+      "other2": "value2",
+      "other3": "value3",
+      "other4": "value4",
+      "other5": "value5"
+    }
+    ,
+        {
+      "licenseKey": "KGM8R1Q9L6H2T7C5W3B0E9Y4P6D191KL",
+      "registerDate": "2025-12-28",
+      "expiryDate": "2026-01-31",
+      "registeredName": "Lakshmi",
+      "activeFlag": true,
+      "androidId": "3872d11b4e84bddb",
+      "other1": "value1",
+      "other2": "value2",
+      "other3": "value3",
+      "other4": "value4",
+      "other5": "value5"
+    }
+  ]
+}
